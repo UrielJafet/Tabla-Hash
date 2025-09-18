@@ -1,0 +1,38 @@
+# Archivos de compilación
+*.o
+*.obj
+*.lo
+*.la
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Ejecutables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Archivos temporales
+*.log
+*.swp
+*.swo
+*.tmp
+*.temp
+
+# Archivos de depuración
+*.dSYM/
+*.stackdump
+
+# Archivos de proyecto IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
